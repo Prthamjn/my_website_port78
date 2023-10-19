@@ -1,0 +1,507 @@
+<section id="prod" class="section-products" >
+    <div class="container" >
+            <div class="row justify-content-center text-center">
+                    <div class="col-md-8 col-lg-6">
+                            <div class="header">
+                                    <!-- <h3>Featured Product</h3> -->
+                <h1 >Hardware <span style="color: #FFAA17;">Products</span></h1>
+                            </div>
+                    </div>
+            </div>
+            <div class="row">
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-1" class="single-product">
+                                    <div class="part-1">
+                  <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_1.php">High-quality door handle</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-2" class="single-product">
+                                    <div class="part-1">
+                  <!-- <span class="new">new</span> -->
+                                            <span class="discount">Latest</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_2.php">High-quality door handle</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-3" class="single-product">
+                                    <div class="part-1">
+                  <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_3.php">High-quality door handle</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-4" class="single-product">
+                                    <div class="part-1">
+                                            <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_4.php">Stainless Steel Door Chitkani</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-5" class="single-product">
+                                    <div class="part-1">
+                  <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_5.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-6" class="single-product">
+                                    <div class="part-1">
+                  <!-- <span class="new">new</span> -->
+                                            <span class="discount">Latest</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_6.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-7" class="single-product">
+                                    <div class="part-1">
+                <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_7.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-8" class="single-product">
+                                    <div class="part-1">
+                                            <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_8.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+       
+
+        
+            </div>
+    </div>
+</section>
+
+
+
+<section id="prod" class="section-products" >
+    <div class="container" >
+            <div class="row justify-content-center text-center">
+                    <div class="col-md-8 col-lg-6">
+                            <div class="header">
+                                    <!-- <h3>Featured Product</h3> -->
+                <h1 >Promotional<span style="color: #FFAA17;"> Regaliaa</span></h1>
+                            </div>
+                    </div>
+            </div>
+            <div class="row">
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-9" class="single-product">
+                                    <div class="part-1">
+                  <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_1.php">High-quality door handle</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-10" class="single-product">
+                                    <div class="part-1">
+                  <!-- <span class="new">new</span> -->
+                                            <span class="discount">Latest</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_2.php">High-quality door handle</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-11" class="single-product">
+                                    <div class="part-1">
+                  <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_3.php">High-quality door handle</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-12" class="single-product">
+                                    <div class="part-1">
+                                            <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_4.php">Stainless Steel Door Chitkani</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-13" class="single-product">
+                                    <div class="part-1">
+                  <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_5.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-14" class="single-product">
+                                    <div class="part-1">
+                  <!-- <span class="new">new</span> -->
+                                            <span class="discount">Latest</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_6.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-15" class="single-product">
+                                    <div class="part-1">
+                <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_7.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-16" class="single-product">
+                                    <div class="part-1">
+                                            <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_8.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+       
+
+        
+            </div>
+    </div>
+</section>
+
+
+
+<section id="prod" class="section-products" >
+    <div class="container" >
+            <div class="row justify-content-center text-center">
+                    <div class="col-md-8 col-lg-6">
+                            <div class="header">
+                                    <!-- <h3>Featured Product</h3> -->
+                <h1 >Electronics <span style="color: #FFAA17;">Products</span></h1>
+                            </div>
+                    </div>
+            </div>
+            <div class="row">
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-1" class="single-product">
+                                    <div class="part-1">
+                  <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_1.php">High-quality door handle</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-2" class="single-product">
+                                    <div class="part-1">
+                  <!-- <span class="new">new</span> -->
+                                            <span class="discount">Latest</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_2.php">High-quality door handle</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-3" class="single-product">
+                                    <div class="part-1">
+                  <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_3.php">High-quality door handle</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-4" class="single-product">
+                                    <div class="part-1">
+                                            <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_4.php">Stainless Steel Door Chitkani</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-5" class="single-product">
+                                    <div class="part-1">
+                  <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_5.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-6" class="single-product">
+                                    <div class="part-1">
+                  <!-- <span class="new">new</span> -->
+                                            <span class="discount">Latest</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_6.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-7" class="single-product">
+                                    <div class="part-1">
+                <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_7.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-old-price">$79.99</h4> -->
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+                    <!-- Single Product -->
+                    <div class="col-md-6 col-lg-4 col-xl-3">
+                            <div id="product-8" class="single-product">
+                                    <div class="part-1">
+                                            <span class="new">new</span>
+                                            <!-- <ul>
+                                                    <li><a href="#"><i class="fas fa-shopping-cart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-heart"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-plus"></i></a></li>
+                                                    <li><a href="#"><i class="fas fa-expand"></i></a></li>
+                                            </ul> -->
+                                    </div>
+                                    <div class="part-2">
+                                            <h3 class="product-title"><a style="text-decoration: underline;" href="./product_detail_8.php">Mortise Door Lock</a></h3>
+                                            <!-- <h4 class="product-price">$49.99</h4> -->
+                                    </div>
+                            </div>
+                    </div>
+       
+
+        
+            </div>
+    </div>
+</section>
